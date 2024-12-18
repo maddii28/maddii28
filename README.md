@@ -41,7 +41,7 @@ Built during an **NYU Hackathon**, this **personal finance education** platform 
 ---
 
 ## 📈 GitHub Stats  
-![Maddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddii28&show_icons=true&theme=radical)  
+![Maddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddhavsuneja&show_icons=true&theme=light)
 
 ---
 
