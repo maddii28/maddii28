@@ -40,11 +40,8 @@ Built during an **NYU Hackathon**, this **personal finance education** platform 
 
 ---
 
-## 📊 GitHub Stats
-![Total Stars](https://img.shields.io/badge/Total%20Stars-1-blue)
-![Commits](https://img.shields.io/badge/Commits%202024-31-green)
-![Pull%20Requests](https://img.shields.io/badge/PRs%20Merged-5-yellow)
-![Issues](https://img.shields.io/badge/Issues-0-lightgrey)
+## 📊 GitHub Activity
+![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=maddii28&theme=github)
 
 ---
 
