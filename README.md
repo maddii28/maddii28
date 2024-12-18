@@ -41,7 +41,7 @@ Built during an **NYU Hackathon**, this **personal finance education** platform 
 ---
 
 ## 📊 GitHub Activity
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=maddii28&theme=github)
+![GitHub Activity](https://github-readme-stats.vercel.app/api/wakatime?username=maddii28)
 
 ---
 
