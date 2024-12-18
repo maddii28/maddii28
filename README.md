@@ -40,8 +40,11 @@ Built during an **NYU Hackathon**, this **personal finance education** platform 
 
 ---
 
-## 📈 GitHub Stats  
-![Maddhav's GitHub Stats](https://github-readme-stats.vercel.app/api?username=maddii28&show_icons=true&theme=light)
+## 📊 GitHub Stats
+![Total Stars](https://img.shields.io/badge/Total%20Stars-1-blue)
+![Commits](https://img.shields.io/badge/Commits%202024-31-green)
+![Pull%20Requests](https://img.shields.io/badge/PRs%20Merged-5-yellow)
+![Issues](https://img.shields.io/badge/Issues-0-lightgrey)
 
 ---
 
