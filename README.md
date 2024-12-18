@@ -1,19 +1,24 @@
-# Hi there, I'm Maddhav Suneja! 👋  
+# Hi there!
 
-Welcome to my GitHub profile! I’m a **Computer Science major** with minors in **Mathematics** and **Quantum Technology** at NYU (Batch of '27). Currently a sophomore, I’m passionate about building innovative solutions, exploring new technologies, and pushing the boundaries of what’s possible.
+My name is Maddhav Suneja and I’m a **Computer Science major** with minors in **Mathematics** and **Quantum Technology** at **NYU**. I’m passionate about technology, building innovative applications, and using data-driven insights to solve complex problems.
+
+Currently, I’m working on **QRaven**, a project that combines **Flask** and **machine learning models** for dynamic QR code generation and analytics. Along with my academic studies, I aim to expand my skill set in **machine learning**, **AI**, and **backend development**.
+
+### What’s Next?
+I’m always looking for opportunities to collaborate on new projects, explore **startup ideas**, and continue my growth as a developer and innovator. 🚀
 
 ---
 
-## 🚀 About Me  
-- 🏆 **Hackathon Winner**: Co-developed **FinLitify**, a personal finance education platform, at an NYU Hackathon.  
-- 💡 **Current Project**: Building **QRaven**, a Flask-based platform integrating ML models for dynamic QR code generation and analysis.  
-- 🌱 **Learning Goals**: Deepening my expertise in Flask, machine learning, and AI development.  
-- 🎹 **Fun Facts**: I love hiking and am learning the piano during my winter break.  
+## 🚀 About Me
+- 🏆 **Hackathon Winner**: Co-developed **FinLitify**, a **personal finance education** platform that won accolades at an NYU Hackathon.  
+- 💻 **Current Project**: Building **QRaven**, a **Flask**-based platform that integrates **machine learning** for intelligent QR code management.  
+- 🌱 **Learning Goals**: Deepening my expertise in **Flask**, **machine learning**, and **backend development**.  
+- 🎹 **Fun Facts**: I’m an avid **hiker** and currently learning **piano** during my winter break.
 
 ---
 
 ## 🛠️ Tech Stack  
-Here are some of the tools and technologies I’m currently working with:  
+I enjoy working with a variety of tools and technologies to bring my ideas to life. Here’s what I’m currently using:
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
@@ -24,14 +29,14 @@ Here are some of the tools and technologies I’m currently working with:
 
 ---
 
-## 🌟 Projects  
+## 🌟 Featured Projects  
+Here are some of my notable projects:
+
 ### [QRaven](https://github.com/maddii28/qraven)  
-- A Flask-based platform leveraging machine learning models for intelligent QR code management.  
-- Features dynamic QR code generation, analytics, and more.  
+A **Flask**-based platform that leverages **machine learning** models for intelligent QR code generation and management. The project includes dynamic generation, real-time analytics, and data processing.
 
 ### [FinLitify](https://github.com/maddii28/finlitify)  
-- A personal finance education platform designed to make financial literacy accessible to everyone.  
-- Built during NYU’s Hackathon, where it won accolades for innovation.  
+Built during an **NYU Hackathon**, this **personal finance education** platform was awarded for its innovative approach. It aims to make financial literacy more accessible to everyone.
 
 ---
 
