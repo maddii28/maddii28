@@ -1,6 +1,6 @@
 # Hi there!
 
-My name is Maddhav Suneja and I’m a **Computer Science major** with minors in **Mathematics** and **Quantum Technology** at **NYU**. I’m passionate about technology, building innovative applications, and using data-driven insights to solve complex problems.
+My name is Maddhav Suneja and I’m a **Computer Science major** with minors in **Mathematics** and **Data Science** at **NYU**. I’m passionate about technology, building innovative applications, and using data-driven insights to solve complex problems.
 
 Currently, I’m working on **QRaven**, a project that combines **Flask** and **machine learning models** for dynamic QR code generation and analytics. Along with my academic studies, I aim to expand my skill set in **machine learning**, **AI**, and **backend development**.
 
