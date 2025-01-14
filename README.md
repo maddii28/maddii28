@@ -20,12 +20,7 @@ I’m always looking for opportunities to collaborate on new projects, explore *
 ## 🛠️ Tech Stack  
 I enjoy working with a variety of tools and technologies to bring my ideas to life. Here’s what I’m currently using:
 
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  
-![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=white)  
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  
-![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white)  ![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white)  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-102230?logo=tensorflow&logoColor=white)  ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=mysql&logoColor=white)  
 
 ---
 
