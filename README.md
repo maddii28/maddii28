@@ -32,11 +32,11 @@ I enjoy working with a variety of tools and technologies to bring my ideas to li
 ## 🌟 Featured Projects  
 Here are some of my notable projects:
 
-### [QRaven](https://github.com/maddii28/qraven)  
-A **Flask**-based platform that leverages **machine learning** models for intelligent QR code generation and management. The project includes dynamic generation, real-time analytics, and data processing.
-
 ### [FinLitify](https://github.com/maddii28/finlitify)  
 Built during an **NYU Hackathon**, this **personal finance education** platform was awarded for its innovative approach. It aims to make financial literacy more accessible to everyone.
+
+### [QRaven](https://github.com/maddii28/qraven)  
+A **Flask**-based platform that leverages **machine learning** models for intelligent QR code generation and management. The project includes dynamic generation, real-time analytics, and data processing.
 
 ---
 
