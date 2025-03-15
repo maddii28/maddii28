@@ -10,10 +10,12 @@ I’m always looking for opportunities to collaborate on new projects, explore *
 ---
 
 ## 🚀 About Me
-- 🏆 **Hackathon Winner**: Co-developed **FinLitify**, a **personal finance education** platform that won accolades at an NYU Hackathon.  
-- 💻 **Current Project**: Building **QRaven**, a **Flask**-based platform that integrates **machine learning** for intelligent QR code management.  
+- 🏆 **Hackathon Winner**: Co-developed **FinLitify**, a **personal finance education** platform that won BestUse of Wolfram Alpha at an NYU Hackathon.  
+- 💻 **Current Project**:
+1. Building **SetListGenerator** in NYU Google Collab 2025 spring program, a web-app that curates a music list based on user's preferences(takes user input and real time BPM into consideration).
+2. Working on Air Quality Analysis in the NYU Data Science Bootcamp spring 2025.
 - 🌱 **Learning Goals**: Deepening my expertise in **Flask**, **machine learning**, and **backend development**.  
-- 🎹 **Fun Facts**: I’m an avid **hiker** and currently learning **piano** during my winter break.
+- 🎹 **Fun Facts**: I’m an avid hiker and like to cycle in central park in my free time.
 
 ---
 
@@ -33,7 +35,7 @@ I enjoy working with a variety of tools and technologies to bring my ideas to li
 Here are some of my notable projects:
 
 ### [FinLitify](https://github.com/maddii28/finlitify)  
-Built during an **NYU Hackathon**, this **personal finance education** platform was awarded for its innovative approach. It aims to make financial literacy more accessible to everyone.
+Built during an **NYU Hackathon**, this **personal finance education** platform was awarded for its innovative approach of wolfram alpha. It aims to make financial literacy more accessible to everyone.
 
 ### [QRaven](https://github.com/maddii28/qraven)  
 A **Flask**-based platform that leverages **machine learning** models for intelligent QR code generation and management. The project includes dynamic generation, real-time analytics, and data processing.
